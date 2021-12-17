@@ -1,0 +1,186 @@
+[{
+  "imageName": "output_69_0.png",
+  "rectangle": [
+    {
+      "x": 43.515625,
+      "y": 57.625,
+      "width": 239,
+      "height": 181,
+      "rectangle": "Rectangle No. - 1",
+      "color": "rgb(125,225,169)"
+    },
+    {
+      "x": 330.515625,
+      "y": 138.625,
+      "width": 130,
+      "height": 117,
+      "rectangle": "Rectangle No. - 2",
+      "color": "rgb(25,105,239)"
+    },
+    {
+      "x": 431.515625,
+      "y": 50.625,
+      "width": 141,
+      "height": 98,
+      "rectangle": "Rectangle No. - 3",
+      "color": "rgb(35,31,236)"
+    },
+    {
+      "x": 81.515625,
+      "y": 56.625,
+      "width": 22,
+      "height": 60,
+      "rectangle": "Rectangle No. - 4",
+      "color": "rgb(218,151,187)"
+    },
+    {
+      "x": 131.515625,
+      "y": 35.625,
+      "width": 106,
+      "height": 58,
+      "rectangle": "Rectangle No. - 5",
+      "color": "rgb(122,10,166)"
+    },
+    {
+      "x": 331.515625,
+      "y": 276.625,
+      "width": 129,
+      "height": 63,
+      "rectangle": "Rectangle No. - 6",
+      "color": "rgb(49,78,76)"
+    }
+  ]
+},{
+  "imageName": "output_112_1.png",
+  "rectangle": [
+    {
+      "x": 85.515625,
+      "y": 119.625,
+      "width": 225,
+      "height": 178,
+      "rectangle": "Rectangle No. - 1",
+      "color": "rgb(152,142,94)"
+    },
+    {
+      "x": 244.515625,
+      "y": 70.625,
+      "width": 120,
+      "height": 36,
+      "rectangle": "Rectangle No. - 2",
+      "color": "rgb(139,162,107)"
+    },
+    {
+      "x": 403.515625,
+      "y": 130.625,
+      "width": 104,
+      "height": 123,
+      "rectangle": "Rectangle No. - 3",
+      "color": "rgb(226,21,122)"
+    },
+    {
+      "x": 422.515625,
+      "y": 42.625,
+      "width": 96,
+      "height": 62,
+      "rectangle": "Rectangle No. - 4",
+      "color": "rgb(185,1,6)"
+    },
+    {
+      "x": 164.515625,
+      "y": 117.625,
+      "width": 82,
+      "height": 96,
+      "rectangle": "Rectangle No. - 5",
+      "color": "rgb(97,119,84)"
+    },
+    {
+      "x": 206.515625,
+      "y": 121.625,
+      "width": 7,
+      "height": 67,
+      "rectangle": "Rectangle No. - 6",
+      "color": "rgb(207,207,131)"
+    }
+  ]
+},{
+  "imageName": "output_192_1.png",
+  "rectangle": [
+    {
+      "x": 136.515625,
+      "y": 130.625,
+      "width": 185,
+      "height": 123,
+      "rectangle": "Rectangle No. - 1",
+      "color": "rgb(21,66,168)"
+    },
+    {
+      "x": 403.515625,
+      "y": 96.625,
+      "width": 107,
+      "height": 153,
+      "rectangle": "Rectangle No. - 2",
+      "color": "rgb(235,3,219)"
+    }
+  ]
+},{
+  "imageName": "output_192_1.png",
+  "rectangle": [
+    {
+      "x": 88.515625,
+      "y": 185.625,
+      "width": 268,
+      "height": 144,
+      "rectangle": "Rectangle No. - 1",
+      "color": "rgb(196,229,105)"
+    }
+  ]
+},{
+  "imageName": "output_173_1.png",
+  "rectangle": [
+    {
+      "x": 50.515625,
+      "y": 34.625,
+      "width": 319,
+      "height": 212,
+      "rectangle": "Rectangle No. - 1",
+      "color": "rgb(98,48,79)"
+    },
+    {
+      "x": 189.515625,
+      "y": 120.625,
+      "width": 110,
+      "height": 87,
+      "rectangle": "Rectangle No. - 2",
+      "color": "rgb(94,210,77)"
+    },
+    {
+      "x": 14.515625,
+      "y": 84.625,
+      "width": 191,
+      "height": 179,
+      "rectangle": "Rectangle No. - 3",
+      "color": "rgb(5,50,122)"
+    }
+  ]
+},{
+  "imageName": "output_192_1.png",
+  "rectangle": [
+    {
+      "x": 194.515625,
+      "y": 173.625,
+      "width": 168,
+      "height": 93,
+      "rectangle": "Rectangle No. - 1",
+      "color": "rgb(230,121,182)"
+    },
+    {
+      "x": 103.515625,
+      "y": 69.625,
+      "width": 192,
+      "height": 62,
+      "rectangle": "Rectangle No. - 2",
+      "color": "rgb(194,169,34)"
+    }
+  ]
+}
+]
